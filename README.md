@@ -8,10 +8,11 @@ Sample Kafka Publisher and Consumer.
 ### Running Integration tests
 
 ### Docker compose commands
-```  docker-compose build
+```text
+    docker-compose build
     docker-compose up
     docker-compose ps
     docker-compose start
     docker-compose stop
     docker-compose rm
-    ```
+```

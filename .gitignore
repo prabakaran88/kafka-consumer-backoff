@@ -1,0 +1,11 @@
+**/target/
+test-output/
+.settings/
+.project
+.classpath
+*.iml
+/bin/
+.idea/
+**/logs/
+/.scannerwork/
+/.sonar/

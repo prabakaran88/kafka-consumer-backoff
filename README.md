@@ -8,11 +8,13 @@ Sample Kafka Publisher and Consumer.
 ### Running Integration tests
 
 ### Docker compose commands
-docker-compose build
-Builds, (re)creates, starts, and attaches to containers for a service
-docker-compose up
+``
+    docker-compose build
+    Builds, (re)creates, starts, and attaches to containers for a service
+    docker-compose up
 
-docker-compose ps
-docker-compose start
-docker-compose stop
-docker-compose rm
+    docker-compose ps
+    docker-compose start
+    docker-compose stop
+    docker-compose rm
+    ``
